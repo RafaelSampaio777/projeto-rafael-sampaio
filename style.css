@@ -3,7 +3,11 @@
     color: #32b9cd;
 }
 
-.container {
+.container{
+
+}
+
+.header .container {
     display: flex;
     justify-content: space-between;
 }
@@ -14,3 +18,4 @@
     width: 400px;
     justify-content: space-between;
 }
+
